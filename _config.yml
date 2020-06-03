@@ -1,0 +1,13 @@
+
+title: Your awesome title
+email: 372334264@qq.com
+description: This is my blog!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://front123.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: front
+github_username:  front123
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
